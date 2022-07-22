@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Translator's Notes</title><link>https://almirpaulo.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Sat, 16 Jul 2022 17:40:46 -0300</lastBuildDate>
-<pubDate>Sat, 16 Jul 2022 17:40:46 -0300</pubDate>
+<lastBuildDate>Fri, 22 Jul 2022 17:19:24 -0300</lastBuildDate>
+<pubDate>Fri, 22 Jul 2022 17:19:24 -0300</pubDate>
 <atom:link href="https://almirpaulo.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-Title on this line
+Contributing  to Webtoons
 </title><description><![CDATA[
 
-<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
-as you exit your editor.</p>
+<img src="./src/webtoon_translation.png" alt="webtoon_translations">
+Contributing to the translation of <a href="https://www.webtoons.com/en/mystery/dr-frost/list?title_no=371">Dr, Frost</a> by <a href="https://twitter.com/jongbeom">JongBeom Lee
+</a>
 
-<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
 
-<!-- text end -->
-]]></description><link>https://almirpaulo.github.io/blog/title-on-this-line.html</link>
-<guid>https://almirpaulo.github.io/blog/./title-on-this-line.html</guid>
-<dc:creator>John Smith</dc:creator>
-<pubDate>Sat, 16 Jul 2022 17:29:55 -0300</pubDate></item>
+<p>
+  I had a very nice experience these days translating a famous webtoon: Dr. Frost. The webtoons plataform has support for fans translations. There is a huge community translating all sort of webtoons you can imagine. I thought would be nice to try it once. And Dr. Frost is webtoons that is helping me a lot to pratice my french. I mean, of course the original toungue is probably Korean, but there is a French translation too. 
+</p>
+<p>
+  If you don't know what is a webtoon, it's the same of webcomics, actually webtoon is the name of a famous website where you can find a lot of them, but the name kind a stick to the webcomics. And if you don't know Dr Frost here is a sinopsis directly from Webtoons:
+  <blockquote>College professor by day, and bartender by night, psychologist Dr. Frost believes in one simple belief. Humans are all the same. He uses this tenet to guide his practice, and solves the puzzles of the human mind one by one.</blockquote>
+</p>
+
+<hr>
+]]></description><link>https://almirpaulo.github.io/blog/contributing--to-webtoons.html</link>
+<guid>https://almirpaulo.github.io/blog/./contributing--to-webtoons.html</guid>
+<dc:creator>Almir Paulo</dc:creator>
+<pubDate>Fri, 22 Jul 2022 16:08:53 -0300</pubDate></item>
 </channel></rss>

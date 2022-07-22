@@ -1,3 +1,6 @@
+body{
+    background: #ccc;
+}
 #title{font-size: x-large;}
         a.ablack{color:black !important;}
         li{margin-bottom:8px;}
