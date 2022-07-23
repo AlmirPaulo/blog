@@ -2,16 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Translator's Notes</title><link>https://almirpaulo.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Fri, 22 Jul 2022 18:57:07 -0300</lastBuildDate>
-<pubDate>Fri, 22 Jul 2022 18:57:07 -0300</pubDate>
+<lastBuildDate>Sat, 23 Jul 2022 16:03:18 -0300</lastBuildDate>
+<pubDate>Sat, 23 Jul 2022 16:03:18 -0300</pubDate>
 <atom:link href="https://almirpaulo.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Contributing to Webtoon... Again.
+</title><description><![CDATA[
+
+<img src="./src/webtoon_translation2.png" alt="war-n-peas">
+<center>
+  Contributing to <a href="https://www.webtoons.com/en/challenge/war-and-peas/list?title_no=63305&page=1">War and Peas</a> by <a href="https://warandpeas.com/about/">Elizabeth + Jonathan</a>.  
+</center>
+
+<p>
+  As I said the last time I worked with webtoons, it was a nice experience, and it was again. But I confess the last time <a href="https://almirpaulo.github.io/blog/contributing--to-webtoons.html">with Dr. Frost</a> I may have made some mistakes. I realize that by look at other Portuguese translations that was better than mine in some aspects like visuals (in the font styles, that I notice that it's not really preserved as the originals, but reworked) and in the word choices at some points.</p>
+
+<p>
+  But now I've found another really interesting webtoon called "War and Peas". It's actually a kind of a comic strip. A very funny one. Here is the synopsis:
+<blockquote>
+A robot hopelessly in love, a promiscuous yet self-assured witch, and a fatally laid-back grim reaper. This never-ending webcomic of woefully funny stories will leave you cry-laughing or the other way around.
+</blockquote>
+</p>
+
+<p>
+I think I will continue to translate War and Peas from time to time. Translating comedy is a special challenge, it's not just changing the words (it's never that simple), you have to keep the meaning to keep the joke. An excellent practice for every translator.
+</p>
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://almirpaulo.github.io/blog/contributing-to-webtoon-again.html</link>
+<guid>https://almirpaulo.github.io/blog/./contributing-to-webtoon-again.html</guid>
+<dc:creator>Almir Paulo</dc:creator>
+<pubDate>Sat, 23 Jul 2022 15:08:09 -0300</pubDate></item>
 <item><title>
 Contributing  to Webtoons
 </title><description><![CDATA[
 
 <img src="./src/webtoon_translation.png" alt="webtoon_translations">
 <center>
-Contributing to the translation of <a href="https://www.webtoons.com/en/mystery/dr-frost/list?title_no=371">Dr, Frost</a> by <a href="https://twitter.com/jongbeom">JongBeom Lee
+Contributing to the translation of <a href="https://www.webtoons.com/en/mystery/dr-frost/list?title_no=371">Dr. Frost</a> by <a href="https://twitter.com/jongbeom">JongBeom Lee
 </a>
 </center>
 
@@ -41,9 +75,12 @@ Contributing to the translation of <a href="https://www.webtoons.com/en/mystery/
 
 
 
+
+
+
 <!-- text end -->
 ]]></description><link>https://almirpaulo.github.io/blog/contributing--to-webtoons.html</link>
 <guid>https://almirpaulo.github.io/blog/./contributing--to-webtoons.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
-<pubDate>Fri, 22 Jul 2022 16:08:53 -0300</pubDate></item>
+<pubDate>Fri, 22 Jul 2022 19:00:34 -0300</pubDate></item>
 </channel></rss>
