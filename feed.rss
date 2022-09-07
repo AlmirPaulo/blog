@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>The Text Wizard</title><link>https://almirpaulo.github.io/blog/index.html</link>
+<channel><title>The Text Wizard</title><link>http://thetextwizard.tk//index.html</link>
 <description>I solve your texts</description><language>en</language>
-<lastBuildDate>Mon, 05 Sep 2022 22:17:17 -0300</lastBuildDate>
-<pubDate>Mon, 05 Sep 2022 22:17:17 -0300</pubDate>
-<atom:link href="https://almirpaulo.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<lastBuildDate>Wed, 07 Sep 2022 11:41:19 -0300</lastBuildDate>
+<pubDate>Wed, 07 Sep 2022 11:41:19 -0300</pubDate>
+<atom:link href="http://thetextwizard.tk//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Translating an indie game: Satan's Pepper
 </title><description><![CDATA[
 
 <img src="./src/satans_pepper.png" alt="screenshot">
 <p>
-  I just translate a very cool indie game called <a href="https://theonlyghostwolf.itch.io/satans-pepper-portuguese">Satan's Pepper</a> by <a href="https://theonlyghostwolf.itch.io/">ghostwolf</a>. The game was made in a Jam contest in 5 days, as far as I know, and the outcome is pretty impressive. The author says he has plans for future versions of the game. Let's wait for it!
+  I've just translated a very cool indie game called <a href="https://theonlyghostwolf.itch.io/satans-pepper-portuguese">Satan's Pepper</a> by <a href="https://theonlyghostwolf.itch.io/">ghostwolf</a>. The game was made in a Jam contest in 5 days, as far as I know, and the outcome is pretty impressive. The author says he has plans for future versions of the game. Let's wait for it!
 </p>
 <p>This actual version is short, but you can have a lot of fun with your friends (or alone) if you like horror games and interactive games.</p>
 <p>About the translation process, ghostwolf provides a manual, but I found it really easy. I spent last year learning code (Python and Javascript mainly), so it was  a bit intuitive for me what should and what should not be translated in the file. </p>
@@ -28,11 +28,21 @@ Translating an indie game: Satan's Pepper
 
 
 
+
+
+
+
+
+
+
+
+
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://almirpaulo.github.io/blog/translating-an-indie-game-satans-pepper.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=AlmirPaul0'>Comments? Tweet</a> 
-<a href='https://twitter.com/search?q=https://almirpaulo.github.io/blog/translating-an-indie-game-satans-pepper.html'><span id='count-3197'></span></a>&nbsp;</p>
-]]></description><link>https://almirpaulo.github.io/blog/translating-an-indie-game-satans-pepper.html</link>
-<guid>https://almirpaulo.github.io/blog/./translating-an-indie-game-satans-pepper.html</guid>
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=AlmirPaul0'>Comments? Tweet</a> 
+<a href='https://twitter.com/search?q=http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html'><span id='count-21611'></span></a>&nbsp;</p>
+]]></description><link>http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html</link>
+<guid>http://thetextwizard.tk//./translating-an-indie-game-satans-pepper.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
 <pubDate>Fri, 29 Jul 2022 12:58:57 -0300</pubDate></item>
 <item><title>
@@ -117,11 +127,20 @@ But most importantly this is the night that Joker's true origin and real name wi
 
 
 
+
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://almirpaulo.github.io/blog/subtitles-for-batman.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=AlmirPaul0'>Comments? Tweet</a> 
-<a href='https://twitter.com/search?q=https://almirpaulo.github.io/blog/subtitles-for-batman.html'><span id='count-28848'></span></a>&nbsp;</p>
-]]></description><link>https://almirpaulo.github.io/blog/subtitles-for-batman.html</link>
-<guid>https://almirpaulo.github.io/blog/./subtitles-for-batman.html</guid>
+<a href='https://twitter.com/search?q=https://almirpaulo.github.io/blog/subtitles-for-batman.html'><span id='count-7090'></span></a>&nbsp;</p>
+]]></description><link>http://thetextwizard.tk//subtitles-for-batman.html</link>
+<guid>http://thetextwizard.tk//./subtitles-for-batman.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
 <pubDate>Sun, 24 Jul 2022 23:09:57 -0300</pubDate></item>
 <item><title>
@@ -178,11 +197,20 @@ I think I will continue to translate War and Peas from time to time. Translating
 
 
 
+
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://almirpaulo.github.io/blog/contributing-to-webtoon-again.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=AlmirPaul0'>Comments? Tweet</a> 
-<a href='https://twitter.com/search?q=https://almirpaulo.github.io/blog/contributing-to-webtoon-again.html'><span id='count-20246'></span></a>&nbsp;</p>
-]]></description><link>https://almirpaulo.github.io/blog/contributing-to-webtoon-again.html</link>
-<guid>https://almirpaulo.github.io/blog/./contributing-to-webtoon-again.html</guid>
+<a href='https://twitter.com/search?q=https://almirpaulo.github.io/blog/contributing-to-webtoon-again.html'><span id='count-27074'></span></a>&nbsp;</p>
+]]></description><link>http://thetextwizard.tk//contributing-to-webtoon-again.html</link>
+<guid>http://thetextwizard.tk//./contributing-to-webtoon-again.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
 <pubDate>Sat, 23 Jul 2022 15:08:09 -0300</pubDate></item>
 <item><title>
@@ -249,11 +277,20 @@ Contributing to the translation of <a href="https://www.webtoons.com/en/mystery/
 
 
 
+
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://almirpaulo.github.io/blog/contributing--to-webtoons.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=AlmirPaul0'>Comments? Tweet</a> 
-<a href='https://twitter.com/search?q=https://almirpaulo.github.io/blog/contributing--to-webtoons.html'><span id='count-3702'></span></a>&nbsp;</p>
-]]></description><link>https://almirpaulo.github.io/blog/contributing--to-webtoons.html</link>
-<guid>https://almirpaulo.github.io/blog/./contributing--to-webtoons.html</guid>
+<a href='https://twitter.com/search?q=https://almirpaulo.github.io/blog/contributing--to-webtoons.html'><span id='count-18199'></span></a>&nbsp;</p>
+]]></description><link>http://thetextwizard.tk//contributing--to-webtoons.html</link>
+<guid>http://thetextwizard.tk//./contributing--to-webtoons.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
 <pubDate>Fri, 22 Jul 2022 19:00:34 -0300</pubDate></item>
 </channel></rss>
