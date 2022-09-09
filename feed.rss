@@ -2,49 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>The Text Wizard</title><link>http://thetextwizard.tk//index.html</link>
 <description>I solve your texts</description><language>en</language>
-<lastBuildDate>Wed, 07 Sep 2022 11:41:19 -0300</lastBuildDate>
-<pubDate>Wed, 07 Sep 2022 11:41:19 -0300</pubDate>
+<lastBuildDate>Thu, 08 Sep 2022 21:03:13 -0300</lastBuildDate>
+<pubDate>Thu, 08 Sep 2022 21:03:13 -0300</pubDate>
 <atom:link href="http://thetextwizard.tk//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-Translating an indie game: Satan's Pepper
+Traduzindo Miso: O melhor RPG solo
 </title><description><![CDATA[
 
-<img src="./src/satans_pepper.png" alt="screenshot">
-<p>
-  I've just translated a very cool indie game called <a href="https://theonlyghostwolf.itch.io/satans-pepper-portuguese">Satan's Pepper</a> by <a href="https://theonlyghostwolf.itch.io/">ghostwolf</a>. The game was made in a Jam contest in 5 days, as far as I know, and the outcome is pretty impressive. The author says he has plans for future versions of the game. Let's wait for it!
+<p> Eu adoro RPG. Quero dizer os RPGs de mesa, não aos videogames. Eu costumava ser o narrador dos meus grupos. Jogávamos com muitos sistemas diferentes: 3D&T, Daemon, +2d6… </p>
+<p> Hoje em dia, por muitas razões, eu jogo RPGs solo, o que ainda é muito divertido. E Miso é, de longe, meu favorito. Ok, Bivius também tem um lugar nesse pódio. A propósito, <a target="_blank" href="https://www.dieheart.net/">Sophia Brandt</a>, autora de Miso, credita Bivius como uma inspiração para Miso.</p>
+<p> Acredito que eu deveria começar a explicar um pouco sobre RPG solo. A maioria de vocês nunca deve ter escutado sobre isso. RPG solo é exatamente o que o nome sugere: um RPG de um único jogador. Vocês é o GM e o jogador ao mesmo tempo. Alguns de vocês provavelmente já leram livros como os da antiga série "Fighting Fantasy". É mais ou menos assim, mas sem um livro para guiá-lo.</p>
+<p> E agora vocês me perguntam: Mas como ele funciona exatamente? Como eu posso jogar o lado narrador? Bem, há muitos simuladores narrador(ou mais conhecidos como “simuladores de mestre”) por aí. E agora podemos falar sobre Miso.
 </p>
-<p>This actual version is short, but you can have a lot of fun with your friends (or alone) if you like horror games and interactive games.</p>
-<p>About the translation process, ghostwolf provides a manual, but I found it really easy. I spent last year learning code (Python and Javascript mainly), so it was  a bit intuitive for me what should and what should not be translated in the file. </p>
-  <p>You can find a lot of Satan's Pepper gameplays on Youtube in a lot of different languages. Now we have a Portuguese translation, I'm waiting for the Brazilian gameplays!</p>
+<p>  O design do sistema Miso (Minimal Solo RPG) é absolutamente simples. Você só precisa de seu conjunto normal de dados (talvez você pudesse usar um único dado, mas então não seria tão divertido). Basicamente, cada cena que você inventa duas opções, atribui um dado para cada uma delas e desempenha um papel. O resultado mais alto é o que acontece. Este é o sistema em poucas palavras. Mas é claro que você deveria dar uma olhada.
+</p>
+<p> Aqui está o link para download do <a href="" download>pdf</a> e do <a href="" download>epub</a> da versão em português do sistema traduzida por mim.
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p>Tags: <a href='tag_RPG.html'>RPG</a>, <a href='tag_solo-RPG.html'>solo-RPG</a>, <a href='tag_Translation.html'>Translation</a>, <a href='tag_PT-BR.html'>PT-BR</a></p>
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=AlmirPaul0'>Comments? Tweet</a> 
-<a href='https://twitter.com/search?q=http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html'><span id='count-21611'></span></a>&nbsp;</p>
-]]></description><link>http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html</link>
-<guid>http://thetextwizard.tk//./translating-an-indie-game-satans-pepper.html</guid>
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=http://thetextwizard.tk//traduzindo-miso-o-melhor-rpg-solo.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=AlmirPaul0'>Comments? Tweet</a> 
+<a href='https://twitter.com/search?q=http://thetextwizard.tk//traduzindo-miso-o-melhor-rpg-solo.html'><span id='count-24533'></span></a>&nbsp;</p>
+]]></description><link>http://thetextwizard.tk//traduzindo-miso-o-melhor-rpg-solo.html</link>
+<guid>http://thetextwizard.tk//./traduzindo-miso-o-melhor-rpg-solo.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
-<pubDate>Fri, 29 Jul 2022 12:58:57 -0300</pubDate></item>
+<pubDate>Thu, 08 Sep 2022 21:03:09 -0300</pubDate></item>
 <item><title>
 Subtitles for Batman
 </title><description><![CDATA[
@@ -142,7 +124,47 @@ But most importantly this is the night that Joker's true origin and real name wi
 ]]></description><link>http://thetextwizard.tk//subtitles-for-batman.html</link>
 <guid>http://thetextwizard.tk//./subtitles-for-batman.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
-<pubDate>Sun, 24 Jul 2022 23:09:57 -0300</pubDate></item>
+<pubDate>Thu, 08 Sep 2022 20:58:00 -0300</pubDate></item>
+<item><title>
+Translating an indie game: Satan's Pepper
+</title><description><![CDATA[
+
+<img src="./src/satans_pepper.png" alt="screenshot">
+<p>
+  I've just translated a very cool indie game called <a href="https://theonlyghostwolf.itch.io/satans-pepper-portuguese">Satan's Pepper</a> by <a href="https://theonlyghostwolf.itch.io/">ghostwolf</a>. The game was made in a Jam contest in 5 days, as far as I know, and the outcome is pretty impressive. The author says he has plans for future versions of the game. Let's wait for it!
+</p>
+<p>This actual version is short, but you can have a lot of fun with your friends (or alone) if you like horror games and interactive games.</p>
+<p>About the translation process, ghostwolf provides a manual, but I found it really easy. I spent last year learning code (Python and Javascript mainly), so it was  a bit intuitive for me what should and what should not be translated in the file. </p>
+  <p>You can find a lot of Satan's Pepper gameplays on Youtube in a lot of different languages. Now we have a Portuguese translation, I'm waiting for the Brazilian gameplays!</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=AlmirPaul0'>Comments? Tweet</a> 
+<a href='https://twitter.com/search?q=http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html'><span id='count-21611'></span></a>&nbsp;</p>
+]]></description><link>http://thetextwizard.tk//translating-an-indie-game-satans-pepper.html</link>
+<guid>http://thetextwizard.tk//./translating-an-indie-game-satans-pepper.html</guid>
+<dc:creator>Almir Paulo</dc:creator>
+<pubDate>Thu, 08 Sep 2022 20:58:00 -0300</pubDate></item>
 <item><title>
 Contributing to Webtoon... Again.
 </title><description><![CDATA[
@@ -212,7 +234,7 @@ I think I will continue to translate War and Peas from time to time. Translating
 ]]></description><link>http://thetextwizard.tk//contributing-to-webtoon-again.html</link>
 <guid>http://thetextwizard.tk//./contributing-to-webtoon-again.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
-<pubDate>Sat, 23 Jul 2022 15:08:09 -0300</pubDate></item>
+<pubDate>Thu, 08 Sep 2022 20:58:00 -0300</pubDate></item>
 <item><title>
 Contributing  to Webtoons
 </title><description><![CDATA[
@@ -292,5 +314,5 @@ Contributing to the translation of <a href="https://www.webtoons.com/en/mystery/
 ]]></description><link>http://thetextwizard.tk//contributing--to-webtoons.html</link>
 <guid>http://thetextwizard.tk//./contributing--to-webtoons.html</guid>
 <dc:creator>Almir Paulo</dc:creator>
-<pubDate>Fri, 22 Jul 2022 19:00:34 -0300</pubDate></item>
+<pubDate>Thu, 08 Sep 2022 20:58:00 -0300</pubDate></item>
 </channel></rss>
